@@ -20,7 +20,7 @@ the best v36 brawl stars open source private server.
 you must create client by yourself.
 
 # screenshots #
-![v36](https://raw.githubusercontent.com/XidMods05/brawl-stars-v36-private-server/main/Screenshots/menu.png)
-![v36](https://raw.githubusercontent.com/XidMods05/brawl-stars-v36-private-server/main/Screenshots/battle.png)
+![v36](https://raw.githubusercontent.com/Brawlstars1212/Velo-brawl-v36-REUPLOADED/refs/heads/main/menu.png)
+![v36](https://raw.githubusercontent.com/Brawlstars1212/Velo-brawl-v36-REUPLOADED/refs/heads/main/battle.png)
 
 
